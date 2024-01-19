@@ -1,25 +1,24 @@
-#User Authentication#
-
+<h1>User Authentication</h1>
 Secure user registration.
 User login for personalized experiences.
 Logout functionality.
 Social authentication options using Google and Facebook.
 
-#Launch Listing#
+<h1>Launch Listing</h1>
 Displays a list of all SpaceX launches.
 Launches are presented in a clean and organized manner.
 
-#Launch Details Modal#
+<h1>Launch Details Modal</h1>
 Users can view detailed information about each launch through a modal.
 Modal provides insights into launch dates, mission names, and additional details.
 
-#Launch Filtering#
+<h1>Launch Filtering</h1>
 Users can filter launches based on their status (upcoming or past).
 Option to filter launches within a specific date range.
 
-#Deployment#
+<h1>Deployment</h1>
 The application is deployed on verel
-#Technologies Used#
+<h1>Technologies Used</h1>
 <h1>Frontend:</h1>
 React.js for building the user interface.
 Next.js for server-side rendering and improved performance.
