@@ -41,8 +41,6 @@ bash
 Copy code
 cd spaceX-launch-dashboard
 npm install
-Set up environment variables for authentication and database connection.
-
 Run the application:
 
 bash
@@ -53,7 +51,7 @@ The application is deployed on Heroku and can be accessed here.
 
 Feel free to explore SpaceX launches, filter them based on your preferences, and enjoy an immersive dashboard experience!
 
-Contributors
+Contributors</br>
 Trilok Rana
 
 
