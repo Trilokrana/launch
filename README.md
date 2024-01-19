@@ -17,7 +17,7 @@ Users can filter launches based on their status (upcoming or past).
 Option to filter launches within a specific date range.
 
 <h1>Deployment</h1>
-The application is deployed on verel
+The application is deployed on vercel
 <h1>Technologies Used</h1>
 <h1>Frontend:</h1>
 React.js for building the user interface.
