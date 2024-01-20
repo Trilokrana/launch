@@ -7,7 +7,7 @@ const Login = () => {
     return (
         <>
             {user ? (
-                <div className="justify-between text-center box-border p-4 rounded-md ">
+                <div className="justify-between text-center box-border p-4 rounded-md mt-[-15px]">
                     <p className="text-md"></p>
                     <Link href="/api/auth/login">
                         <button className="w-32 h-12 m-2 font-semibold text-center text-white text-lg bg-blue-700 hover:bg-blue-800 rounded-md">Add Account</button>
